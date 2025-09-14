@@ -143,3 +143,6 @@ mlartifacts/
 # Temporary files
 *.tmp
 *.temp
+
+# AI Reports
+ai_reports/
